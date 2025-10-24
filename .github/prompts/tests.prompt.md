@@ -1,0 +1,1 @@
+Create tests using xUnit. If dedicated project do not exists - create new one. Use Moq, AutoFixture.
